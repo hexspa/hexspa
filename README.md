@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hexspa - teehee. And
-- 👀 I’m interested in getting support. And
-- 🌱 I’m currently learning many things, too many to list. And
+- 👋 Hi, I’m @hexspa - words and music. And
+- 👀 I’m interested in learning github and git. And
+- 🌱 I’m currently learning species counterpoint, among other things. And
 - 💞️ I’m looking to collaborate on music projects.
-- 📫 How to reach me? twitter, instagram, youtube (all @hexspa), or michael@hexspa.com
+- 📫 How to reach me? threads and youtube are probably best (all @hexspa).
 
 <!---
 hexspa/hexspa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
